@@ -1,1 +1,1 @@
-FROM quay.io/argoproj/argocd:v2.8.4
+FROM ghcr.io/dexidp/dex:v2.37.0
